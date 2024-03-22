@@ -22,3 +22,4 @@ sqlparse==0.4.4
 StrEnum==0.4.15
 urllib3==2.2.0
 whitenoise==6.5.0
+django-summernote~=0.8.20.0
